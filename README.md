@@ -3,7 +3,7 @@ I am a Computer Science student at Indian Institute of Information Technology, D
 
 🚀 Passionate Web Developer dedicated to building efficient, user-friendly digital experiences.<br>
 🌱 Currently sharpening my skills in React and exploring advanced backend frameworks.<br>
-🎯 My mission is to bridge the gap between front-end and back-end development, crafting seamless, scalable, and user-centric applications that solve real-world problems
+🎯 My mission is to bridge the gap between front-end and back-end development, crafting seamless, scalable, and user-centric applications that solve real-world problems.
 
 ## 🔧 Technologies & Tools  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -29,4 +29,12 @@ Placements and Internships.
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIDARISAIKRISHNA&show_icons=true&theme=radical)  
 
+## ✨ Fun Facts  
+- I love exploring new ideas and experimenting it in my free time.
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chidari-sai-krishna/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=portfolio)](https://chidarisaikrishnaportfolio.vercel.app/)
+[![Mail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/)  
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/chidarisaikrishna/?igsh=MTI4em42d2U4dHhtMA%3D%3D)
 
