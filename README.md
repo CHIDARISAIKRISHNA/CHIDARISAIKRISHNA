@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **CHIDARISAIKRISHNA/CHIDARISAIKRISHNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋, I'm Chidari Sai Krishna!  
+🚀 A Web Developer with a passion for creating efficient and user-friendly digital experiences.  
+🌱 Currently enhancing my skills in React and exploring backend frameworks.  
