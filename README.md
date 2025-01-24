@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Chidari Sai Krishna!
 I am a Computer Science student at Indian Institute of Information Technology, Dharwad, with a strong foundation in web development and expertise in both front-end and back-end technologies.
 
-🚀 Passionate Web Developer dedicated to building efficient, user-friendly digital experiences.
-🌱 Currently sharpening my skills in React and exploring advanced backend frameworks.
+🚀 Passionate Web Developer dedicated to building efficient, user-friendly digital experiences.<br>
+🌱 Currently sharpening my skills in React and exploring advanced backend frameworks.<br>
 🎯 My mission is to bridge the gap between front-end and back-end development, crafting seamless, scalable, and user-centric applications that solve real-world problems
 
 ## 🔧 Technologies & Tools  
