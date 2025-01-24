@@ -1,22 +1,11 @@
 
-
-<!--
-**CHIDARISAIKRISHNA/CHIDARISAIKRISHNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there 👋, I'm Chidari Sai Krishna!  
 🚀 A Web Developer with a passion for creating efficient and user-friendly digital websites.  
 🌱 Currently enhancing my skills in React and exploring backend frameworks.  
+ I'm a Computer Science student at the **Indian Institute of Information Technology, Dharwad**, with a solid foundation in web development and hands-on experience in both front-end and back-end technologies.  
+🎯 My goal is to bridge the gap between front-end and back-end technologies to create seamless, scalable, and user-centric applications that deliver valuable solutions.  
+
+✨ I've worked on impactful projects like:  
 
 ## 🔧 Technologies & Tools  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
