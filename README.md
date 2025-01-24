@@ -27,7 +27,16 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects  
 - [Restaurant Menu App](https://github.com/CHIDARISAIKRISHNA/Restaurant_Website)  
-  A dynamic menu website with real-time cost calculation and digital receipt generation.  
+• Developed an interactive menu with categories like Breakfast, Lunch, and Dinner, allowing customers to select items and
+quantities.
+• Implemented dynamic cost calculations, including GST, based on user selections.
+• Created a digital payment receipt system that displays itemized costs and payment details.
+• Focused on creating a seamless, user-friendly interface for improved customer experience. 
 - [Student Outing Management System](https://github.com/CHIDARISAIKRISHNA/Student_Outing_Management)  
-  A system that streamlines student outing management and communication.  
+ • Developed a platform to manage student outing details such as name and registration number.
+• Implemented features for watchmen to log student exits and send 9:00 PM reminders.
+• Enabled students to access their own information and faculty contact details.
+• Facilitated communication with previous students for better monitoring and to know much information regarding
+Placements and Internships.
+
 
