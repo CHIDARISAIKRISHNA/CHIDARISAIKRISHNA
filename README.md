@@ -33,8 +33,8 @@ Placements and Internships.
 - I love exploring new ideas and experimenting it in my free time.
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chidari-sai-krishna/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=portfolio)](https://chidarisaikrishnaportfolio.vercel.app/)
-[![Mail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chidari-sai-krishna/) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=portfolio)](https://chidarisaikrishnaportfolio.vercel.app/) 
+[![Mail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/chidarisaikrishna/?igsh=MTI4em42d2U4dHhtMA%3D%3D)
 
