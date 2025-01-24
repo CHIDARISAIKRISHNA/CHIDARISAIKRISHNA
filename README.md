@@ -1,4 +1,4 @@
-Hi there 👋, I'm Chidari Sai Krishna!
+# Hi there 👋, I'm Chidari Sai Krishna!
 I am a Computer Science student at Indian Institute of Information Technology, Dharwad, with a strong foundation in web development and expertise in both front-end and back-end technologies.
 
 🚀 Passionate Web Developer dedicated to building efficient, user-friendly digital experiences.
