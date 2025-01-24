@@ -29,8 +29,14 @@ Placements and Internships.
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIDARISAIKRISHNA&show_icons=true&theme=radical)  
 
-## ✨ Fun Facts  
-- I love exploring new ideas and experimenting it in my free time.
+## 🏅 LeetCode & CodeChef Achievements
+
+- [LeetCode](https://leetcode.com/Sai_Krishna_7/)  
+  ![LeetCode Badge](https://img.shields.io/badge/LeetCode-100%20Problems-green?style=flat)
+
+- [CodeChef](https://www.codechef.com/users/chidarisai2004)  
+  ![CodeChef Badge](https://img.shields.io/badge/CodeChef-5%20Star-blue?style=flat)
+
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chidari-sai-krishna/) 
