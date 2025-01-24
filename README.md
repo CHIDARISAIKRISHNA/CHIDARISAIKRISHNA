@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 
 ## 🚀 Projects  
-- [Restaurant Menu App](https://github.com/ChSaiKrishna/Restaurant_Website)  
+- [Restaurant Menu App](https://github.com/CHIDARISAIKRISHNA/Restaurant_Website)  
   A dynamic menu website with real-time cost calculation and digital receipt generation.  
-- [Student Outing Management System](https://github.com/ChSaiKrishna/Student-Outing-Management-System)  
+- [Student Outing Management System](https://github.com/CHIDARISAIKRISHNA/Student-Outing-Management-System)  
   A system that streamlines student outing management and communication.  
 
