@@ -26,8 +26,6 @@ quantities.<br>
 • Facilitated communication with previous students for better monitoring and to know much information regarding
 Placements and Internships.
 
-## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIDARISAIKRISHNA&show_icons=true&theme=radical)  
 
 ## 🏅 LeetCode & CodeChef Contributions
 
