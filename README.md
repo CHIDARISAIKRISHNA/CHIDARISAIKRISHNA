@@ -29,13 +29,20 @@ Placements and Internships.
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIDARISAIKRISHNA&show_icons=true&theme=radical)  
 
-## 🏅 LeetCode & CodeChef Achievements
+## 🏅 LeetCode & CodeChef Contributions
 
+I actively solve problems on **LeetCode** and **CodeChef** to improve my problem-solving skills and algorithmic thinking. Here’s a brief overview of my achievements:
+
+- **LeetCode**: I have solved a variety of problems in data structures and algorithms, focusing on topics such as arrays, linked lists, dynamic programming, and trees,SQL. Through consistent practice, I have developed a strong foundation in problem-solving techniques.
+  
+- **CodeChef**: I participate in weekly coding contests on CodeChef, where I tackle competitive programming challenges. This has helped me improve my speed and accuracy in solving problems under time constraints.
+
+You can explore my profiles on these platforms:
 - [LeetCode](https://leetcode.com/Sai_Krishna_7/)  
-  ![LeetCode Badge](https://img.shields.io/badge/LeetCode-100%20Problems-green?style=flat)
-
 - [CodeChef](https://www.codechef.com/users/chidarisai2004)  
-  ![CodeChef Badge](https://img.shields.io/badge/CodeChef-5%20Star-blue?style=flat)
+
+Feel free to check out the problems I've solved and my progress on these platforms!
+
 
 
 ## 🌐 Connect with Me  
