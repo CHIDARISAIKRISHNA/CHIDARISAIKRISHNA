@@ -1,48 +1,52 @@
-# 👋 Hi there, I'm Chidari Sai Krishna!
+<h1 align="center">👋 Hi there, I'm <span style="color:#4F46E5;">Chidari Sai Krishna</span></h1>
 
-🎓 **Computer Science Student | Indian Institute of Information Technology, Dharwad (IIIT Dharwad)**  
-💻 **Full-Stack Web Developer | Software Engineer | Problem Solver**  
+<p align="center">
+  🎓 <b>Computer Science Student | IIIT Dharwad</b> <br>
+  💻 <b>Full-Stack Web Developer | Software Engineer | Problem Solver</b>  
+</p>
 
-I’m a passionate developer who loves transforming ideas into scalable, user-centric digital solutions. My journey in tech revolves around **building efficient, responsive web applications** and **exploring intelligent systems** that solve real-world problems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/chidari-sai-krishna/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" /></a>
+  <a href="https://chidarisaikrishnaportfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white&style=flat-square" /></a>
+  <a href="mailto:chidarisai2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
+  <a href="https://www.instagram.com/chidarisaikrishna/?igsh=MTI4em42d2U4dHhtMA%3D%3D"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" /></a>
+</p>
 
 ---
 
 ## 🚀 About Me  
 
-- 🌱 Currently sharpening my skills in **React.js**, **Node.js**, and **Cloud Technologies**.  
-- 💡 Exploring **secure software architectures** and **backend optimizations**.  
-- 🧩 Focused on **bridging the gap between frontend and backend** for seamless web experiences.  
-- 💬 Love contributing to **open-source projects** and collaborating with other developers.  
-- 🎯 Mission: *To craft scalable, maintainable, and impactful applications that enhance user experience.*  
+👨‍💻 I’m a passionate **Full-Stack Web Developer** who enjoys transforming ideas into efficient, scalable digital products.  
+🌱 Currently upskilling in **React.js**, **Node.js**, and **Cloud Deployment (AWS & Google Cloud)**.  
+🎯 My goal: to build applications that are **fast, reliable, and user-focused**.  
+💬 I love collaborating on open-source projects and mentoring my peers.  
 
 ---
 
-## 🧠 Skills & Technologies  
+## 🧠 Tech Stack  
 
-### **Languages**
+### 🏗️ **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white&style=flat)
 
-### **Frontend**
+### 🎨 **Frontend**
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 
-### **Backend**
+### ⚙️ **Backend & Database**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![EJS](https://img.shields.io/badge/-EJS-8B0000?logo=ejs&logoColor=white&style=flat)
-
-### **Databases**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![EJS](https://img.shields.io/badge/-EJS-8B0000?logo=ejs&logoColor=white&style=flat)
 
-### **Developer Tools**
+### 🧰 **Developer Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
@@ -52,80 +56,85 @@ I’m a passionate developer who loves transforming ideas into scalable, user-ce
 
 ---
 
-## 🧩 Featured Projects  
+## 🌟 Featured Projects  
 
-### 🥗 [Restaurant Menu App](https://github.com/CHIDARISAIKRISHNA/Restaurant_Website)
-A dynamic digital menu for “Delicious Bites” restaurant with real-time billing and GST calculation.  
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, SQL  
-- Interactive menu categorized by meal type (Breakfast/Lunch/Dinner).  
-- Real-time cost and tax computation with digital receipts.  
-- Smooth, user-friendly UI for a better dining experience.  
+### 🥗 [Dynamic Restaurant Ordering & Payment System](https://github.com/CHIDARISAIKRISHNA/Dynamic-Restaurant-Ordering-Payment-System)
+A full-stack platform to manage orders, menus, and real-time billing for restaurants.  
+**Tech Stack:** HTML, CSS, JS, Node.js, Express.js, SQL  
+🔹 Real-time order tracking and GST billing  
+🔹 Interactive digital receipts  
+🔹 Responsive design for mobile and desktop  
 
 ---
 
 ### 🎓 [Student Outing Management System](https://github.com/CHIDARISAIKRISHNA/Student_Outing_Management)
-A secure platform for managing student outings on campus.  
-**Tech Stack:** HTML, CSS, JS, Node.js, EJS, MongoDB  
-- Real-time logging for student exits and automated reminders.  
-- Faculty-student communication for better supervision.  
-- Enhanced campus safety and operational efficiency.  
+A secure portal for managing student outings and monitoring campus movement.  
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, EJS, MongoDB  
+🔹 Student exit logging and automated reminder system  
+🔹 Real-time admin dashboard  
+🔹 Contact directory for students and faculty  
 
 ---
 
-### 👗 [LoreZone – Budget-Friendly Fashion Recommender](https://github.com/CHIDARISAIKRISHNA/LoreZone)
-An AI-driven platform that recommends outfits based on occasion, budget, and trends.  
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB/MySQL, AWS S3  
-- Smart recommendation engine for outfit suggestions.  
-- Integrates local offers and designer job opportunities.  
-- Bridging users and creators in the fashion ecosystem.  
-
----
-
-### 🧾 [Insurance Management System](https://github.com/CHIDARISAIKRISHNA/Insurance_Management_System)
-A complete insurance operations system with role-based access control.  
+### 🧾 [Insurance Management System](https://github.com/CHIDARISAIKRISHNA/Insurance-Management-System)
+A web-based insurance management solution with multiple role-based portals.  
 **Tech Stack:** Node.js, Express.js, MySQL, EJS, HTML, CSS  
-- Automated policy creation, claims, and reports.  
-- Dedicated portals for customers, HR, and finance staff.  
-- Centralized and efficient data management.  
+🔹 Handles policy creation, claims, and approvals  
+🔹 Role-based authentication (HR, Finance, Agents)  
+🔹 Clean, interactive UI for smooth workflows  
 
 ---
 
-### 🧮 [Student Attendance Tracking System](https://github.com/CHIDARISAIKRISHNA/Attendance_Tracking)
-A Java console app to record, update, and manage attendance data.  
+### 🧮 [Student Attendance Tracking System](https://github.com/CHIDARISAIKRISHNA/Student-Attendance-Tracking-System)
+A console-based Java project to manage student attendance efficiently.  
 **Tech Stack:** Java, JDBC, MySQL  
-- Demonstrates modular OOP structure.  
-- Secure and efficient attendance record management.  
+🔹 CRUD operations for attendance data  
+🔹 Object-Oriented design  
+🔹 Real-time database integration  
+
+---
+
+### 👗 [LoreZone – Budget-Friendly Fashion Recommender](https://github.com/Arpenaboyina/LoreZone)
+An AI-powered fashion recommendation platform connecting users and designers.  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, AWS S3  
+🔹 Suggests outfits based on user preferences & trends  
+🔹 Connects designers to job opportunities  
+🔹 Helps users find budget-friendly outfit deals  
 
 ---
 
 ## 🏆 Coding & Competitive Programming  
 
-I regularly engage in algorithmic problem solving and contests to strengthen my logical and analytical skills.
+I regularly participate in contests to sharpen my problem-solving and analytical skills:
 
-- **LeetCode**: Solved 200+ problems in arrays, trees, dynamic programming, and SQL.  
-  [View Profile →](https://leetcode.com/Sai_Krishna_7/)  
-- **CodeChef**: Active participant in weekly contests.  
-  [View Profile →](https://www.codechef.com/users/chidarisai2004)  
-- **HackerRank**: [Profile](https://www.hackerrank.com/profile/chidarisai2004)
+- 🧩 **LeetCode:** Solved 200+ problems in arrays, DP, trees, and SQL → [Profile](https://leetcode.com/Sai_Krishna_7/)  
+- ⚡ **CodeChef:** Active in weekly coding contests → [Profile](https://www.codechef.com/users/chidarisai2004)  
+- 💻 **HackerRank:** [Profile](https://www.hackerrank.com/profile/chidarisai2004)  
 
 ---
 
-## 🧰 Other Interests  
+## 📈 GitHub Stats  
 
-- 💬 Exploring **Web Security**, **System Design**, and **Cloud Deployments**  
-- 📚 Writing clean, optimized, and maintainable code  
-- 🎨 UI/UX Design & Product Thinking  
-- 🤝 Mentoring peers and contributing to developer communities  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHIDARISAIKRISHNA&show_icons=true&theme=react" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHIDARISAIKRISHNA&theme=react" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHIDARISAIKRISHNA&layout=compact&theme=react" height="160" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/chidari-sai-krishna/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white&style=flat)](https://chidarisaikrishnaportfolio.vercel.app/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:chidarisai2004@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/chidarisaikrishna/?igsh=MTI4em42d2U4dHhtMA%3D%3D)
+<p align="center">
+  <a href="https://www.linkedin.com/in/chidari-sai-krishna/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://chidarisaikrishnaportfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:chidarisai2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/chidarisaikrishna/?igsh=MTI4em42d2U4dHhtMA%3D%3D"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 ---
 
-⭐ **"Code with logic, build with passion, and innovate with purpose."**
+<h3 align="center">⭐ "Code with logic, build with passion, and innovate with purpose." ⭐</h3>
