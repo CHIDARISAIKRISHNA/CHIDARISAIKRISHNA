@@ -16,7 +16,7 @@
 
 ## 🚀 About Me  
 
-👨‍💻 I’m a passionate **Full-Stack Web Developer** who enjoys transforming ideas into efficient, scalable digital products.  
+👨‍💻 I’m a passionate **Full-Stack Web Developer** and  **Software Developer** who enjoys transforming ideas into efficient, scalable digital products.  
 🌱 Currently upskilling in **React.js**, **Node.js**, and **Cloud Deployment (AWS & Google Cloud)**.  
 🎯 My goal: to build applications that are **fast, reliable, and user-focused**.  
 💬 I love collaborating on open-source projects and mentoring my peers.  
