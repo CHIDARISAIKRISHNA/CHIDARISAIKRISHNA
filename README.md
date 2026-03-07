@@ -5,7 +5,6 @@
 </div>
 <p align="center">
       <b>Computer Science Student | IIIT Dharwad</b> <br>
-      <b>Full-Stack Web Developer | Software Engineer | Problem Solver</b>  
 </p>
 
 <p align="center">
