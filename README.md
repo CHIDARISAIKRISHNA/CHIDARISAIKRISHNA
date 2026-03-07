@@ -58,7 +58,7 @@
 
 ##  Featured Projects  
 
-### 🥗 [Dynamic Restaurant Ordering & Payment System](https://github.com/CHIDARISAIKRISHNA/Dynamic-Restaurant-Ordering-Payment-System)
+###  [Dynamic Restaurant Ordering & Payment System](https://github.com/CHIDARISAIKRISHNA/Dynamic-Restaurant-Ordering-Payment-System)
 A full-stack platform to manage orders, menus, and real-time billing for restaurants.  
 **Tech Stack:** HTML, CSS, JS, Node.js, Express.js, SQL  
 🔹 Real-time order tracking and GST billing  
