@@ -1,5 +1,8 @@
 <h1 align="center"> Hi there, I'm <span style="color:#4F46E5;">Chidari Sai Krishna</span></h1>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Tinos&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Software+Development+Engineer+(SDE);AI%2FML+Engineer" alt="Typing Animation" />
+</div>
+</div>
 <p align="center">
       <b>Computer Science Student | IIIT Dharwad</b> <br>
       <b>Full-Stack Web Developer | Software Engineer | Problem Solver</b>  
