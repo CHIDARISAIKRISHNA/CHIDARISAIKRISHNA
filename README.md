@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#4F46E5;">Chidari Sai Krishna</span></h1>
+<h1 align="center"> Hi there, I'm <span style="color:#4F46E5;">Chidari Sai Krishna</span></h1>
 
 <p align="center">
-  🎓 <b>Computer Science Student | IIIT Dharwad</b> <br>
-  💻 <b>Full-Stack Web Developer | Software Engineer | Problem Solver</b>  
+      <b>Computer Science Student | IIIT Dharwad</b> <br>
+      <b>Full-Stack Web Developer | Software Engineer | Problem Solver</b>  
 </p>
 
 <p align="center">
@@ -14,39 +14,39 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
-👨‍💻 I’m a passionate **Full-Stack Web Developer** and  **Software Developer** who enjoys transforming ideas into efficient, scalable digital products.  
-🌱 Currently upskilling in **React.js**, **Node.js**, and **Cloud Deployment (AWS & Google Cloud)**.  
-🎯 My goal: to build applications that are **fast, reliable, and user-focused**.  
-💬 I love collaborating on open-source projects and mentoring my peers.  
+ I’m a passionate **Full-Stack Web Developer** and  **Software Developer** who enjoys transforming ideas into efficient, scalable digital products.  
+ Currently upskilling in **React.js**, **Node.js**, and **Cloud Deployment (AWS & Google Cloud)**.  
+ My goal: to build applications that are **fast, reliable, and user-focused**.  
+ I love collaborating on open-source projects and mentoring my peers.  
 
 ---
 
-## 🧠 Tech Stack  
+## Tech Stack  
 
-### 🏗️ **Languages**
+###  **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white&style=flat)
 
-### 🎨 **Frontend**
+###  **Frontend**
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 
-### ⚙️ **Backend & Database**
+###  **Backend & Database**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![EJS](https://img.shields.io/badge/-EJS-8B0000?logo=ejs&logoColor=white&style=flat)
 
-### 🧰 **Developer Tools**
+###  **Developer Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
@@ -56,7 +56,7 @@
 
 ---
 
-## 🌟 Featured Projects  
+##  Featured Projects  
 
 ### 🥗 [Dynamic Restaurant Ordering & Payment System](https://github.com/CHIDARISAIKRISHNA/Dynamic-Restaurant-Ordering-Payment-System)
 A full-stack platform to manage orders, menus, and real-time billing for restaurants.  
@@ -67,7 +67,7 @@ A full-stack platform to manage orders, menus, and real-time billing for restaur
 
 ---
 
-### 🎓 [Student Outing Management System](https://github.com/CHIDARISAIKRISHNA/Student_Outing_Management)
+###  [Student Outing Management System](https://github.com/CHIDARISAIKRISHNA/Student_Outing_Management)
 A secure portal for managing student outings and monitoring campus movement.  
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, EJS, MongoDB  
 🔹 Student exit logging and automated reminder system  
@@ -76,7 +76,7 @@ A secure portal for managing student outings and monitoring campus movement.
 
 ---
 
-### 🧾 [Insurance Management System](https://github.com/CHIDARISAIKRISHNA/Insurance-Management-System)
+###  [Insurance Management System](https://github.com/CHIDARISAIKRISHNA/Insurance-Management-System)
 A web-based insurance management solution with multiple role-based portals.  
 **Tech Stack:** Node.js, Express.js, MySQL, EJS, HTML, CSS  
 🔹 Handles policy creation, claims, and approvals  
@@ -85,7 +85,7 @@ A web-based insurance management solution with multiple role-based portals.
 
 ---
 
-### 🧮 [Student Attendance Tracking System](https://github.com/CHIDARISAIKRISHNA/Student-Attendance-Tracking-System)
+###  [Student Attendance Tracking System](https://github.com/CHIDARISAIKRISHNA/Student-Attendance-Tracking-System)
 A console-based Java project to manage student attendance efficiently.  
 **Tech Stack:** Java, JDBC, MySQL  
 🔹 CRUD operations for attendance data  
@@ -94,7 +94,7 @@ A console-based Java project to manage student attendance efficiently.
 
 ---
 
-### 👗 [LoreZone – Budget-Friendly Fashion Recommender](https://github.com/Arpenaboyina/LoreZone)
+###  [LoreZone – Budget-Friendly Fashion Recommender](https://github.com/Arpenaboyina/LoreZone)
 An AI-powered fashion recommendation platform connecting users and designers.  
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, AWS S3  
 🔹 Suggests outfits based on user preferences & trends  
@@ -103,17 +103,17 @@ An AI-powered fashion recommendation platform connecting users and designers.
 
 ---
 
-## 🏆 Coding & Competitive Programming  
+##  Coding & Competitive Programming  
 
 I regularly participate in contests to sharpen my problem-solving and analytical skills:
 
-- 🧩 **LeetCode:** Solved 200+ problems in arrays, DP, trees, and SQL → [Profile](https://leetcode.com/Sai_Krishna_7/)  
-- ⚡ **CodeChef:** Active in weekly coding contests → [Profile](https://www.codechef.com/users/chidarisai2004)  
-- 💻 **HackerRank:** [Profile](https://www.hackerrank.com/profile/chidarisai2004)  
+-  **LeetCode:** Solved 200+ problems in arrays, DP, trees, and SQL → [Profile](https://leetcode.com/Sai_Krishna_7/)  
+-  **CodeChef:** Active in weekly coding contests → [Profile](https://www.codechef.com/users/chidarisai2004)  
+-  **HackerRank:** [Profile](https://www.hackerrank.com/profile/chidarisai2004)  
 
 ---
 
-## 📈 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CHIDARISAIKRISHNA&show_icons=true&theme=react" height="160" />
@@ -126,7 +126,7 @@ I regularly participate in contests to sharpen my problem-solving and analytical
 
 ---
 
-## 🌐 Connect with Me  
+##  Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chidari-sai-krishna/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
@@ -137,4 +137,4 @@ I regularly participate in contests to sharpen my problem-solving and analytical
 
 ---
 
-<h3 align="center">⭐ "Code with logic, build with passion, and innovate with purpose." ⭐</h3>
+<h3 align="center"> "Code with logic, build with passion, and innovate with purpose." </h3>
